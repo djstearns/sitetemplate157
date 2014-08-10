@@ -1,0 +1,15 @@
+{
+	"name": "AuditLog",
+	"description": "AuditLog",
+
+	"author": "admin1",
+	"authorEmail": "admin@gmail.com",
+	"authorUrl": "http://example.com",
+
+	"dependencies": {
+		"plugins": [
+			"acl",
+			"extensions"
+		]
+	}
+}
